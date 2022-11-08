@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://jekiekolya.github.io/command-project-HTML-CSS",
+  "homepage": "https://Maryna-Dr.github.io/foodSta-team-project",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /command-project-HTML-CSS/"
+    "build": "parcel build src/*.html --public-url /foodSta-team-project/"
   },
   "repository": {
     "type": "git",
